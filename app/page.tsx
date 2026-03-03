@@ -6,10 +6,10 @@ export default function Home() {
           Illustrated Data Structure
         </h1>
         <p className="text-xl md:text-2xl text-zinc-600 dark:text-zinc-400 font-medium">
-          Visualisations interactives d'algorithmes et de structures de données
+          Interactive visualizations of algorithms and data structures
         </p>
         <p className="text-zinc-500 dark:text-zinc-500 max-w-lg mt-4">
-          Sélectionnez un élément dans le menu de gauche pour commencer l'exploration.
+          Select an item from the left menu to start exploring.
         </p>
       </div>
     </div>
